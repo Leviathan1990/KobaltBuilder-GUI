@@ -8,7 +8,7 @@ By: Krisztian Kispeti
 
 //English
 =
-With this progaram, you can extract the *.npk files or create them that the Project Nomad
+With this program, you can extract the *.npk files or create them that the Project Nomad
 Nebula2 game engine can handle. 
 
 For extracting files, you do NOT need to make any folders or subfolders, the program will do
@@ -17,7 +17,7 @@ it for you automatically!
 For further information, please read the attached file(s) in the Dat folder!
 
 //Hungarian
-=
+
 Ezzel a programmal ki tudod nyerni vagy létre tudsz hozni *.npk archívumokat, melyeket a 
 Project Nomad nevű játék motora tud kezelni. A fájlok extratálásához semmilyen mappát, almappát nem kell
 létrehoznod. A program automatikusan létrehozza azokat.
