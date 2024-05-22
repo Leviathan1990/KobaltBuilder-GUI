@@ -1,8 +1,9 @@
-// KobaltBuilder V1.1
+KobaltBuilder V1.1
 *.npk archive extractor - builder tool
 Designed for the game, "Project Nomad"
 By: Krisztian Kispeti
 =
+
 ! This program requires dotnet8 to run!
 =
 
