@@ -13,5 +13,5 @@ Knowing issues
 The program can extract the content of the *npk archives and create them.
 
 The problem only occurs when I create the archive, and then load it with my program and extract
-it. I found that some parts of the file is missing. (tested it multiple times with .txt files, with NotePad++).
-
+it. 
+I found that some parts of the file is missing. (tested it multiple times with .txt files, with NotePad++).
